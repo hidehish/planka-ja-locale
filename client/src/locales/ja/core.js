@@ -39,7 +39,7 @@ export default {
       cardNotFound_title: 'カードがありません',
       cardOrActionAreDeleted: 'カードまたはアクションが削除されました',
       color: 'カラー',
-      connectionRestored_title: '接続復帰',
+      connectionRestored_title: 'サーバーとの接続が戻りました',
       createBoard_title: 'ボード作成',
       createLabel_title: 'ラベル作成',
       createNewOneOrSelectExistingOne: '新規作成または選択',
